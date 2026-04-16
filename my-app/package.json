@@ -7,7 +7,7 @@
     "dev": "next dev",
     "build": "next build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d out -r https://github.com/JoaoGomes8/JoaoGomes8.github.io.git -b main",
+    "deploy": "gh-pages -d out -r https://github.com/JoaoGomes8/JoaoGomes8.github.io.git -b main --dotfiles",
     "start": "next start",
     "lint": "next lint"
   },
