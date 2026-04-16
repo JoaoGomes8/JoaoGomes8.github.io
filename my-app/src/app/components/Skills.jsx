@@ -2,18 +2,19 @@ import CardSkills from "./CardSkills";
 
 export default function Skills() {
   const skills = [
-    { text: "HTML", image: "/images/html.png", level: "Advanced" },
-    { text: "CSS / Sass", image: "/images/html.png", level: "Advanced" },
+    { text: "HTML/CSS", image: "/images/html.png", level: "Advanced" },
+    { text: "Sass", image: "/images/sass.png", level: "Advanced" },
     { text: "JavaScript", image: "/images/js.png", level: "Advanced" },
     { text: "Tailwind CSS", image: "/images/tailwind.png", level: "Advanced" },
     { text: "React", image: "/images/react.png", level: "Advanced" },
     { text: "Vue", image: "/images/vue.png", level: "Intermediate" },
-    { text: "Laravel", image: "/images/node.png", level: "Intermediate" },
+    { text: "Laravel", image: "/images/laravel.png", level: "Intermediate" },
     { text: "Node.js", image: "/images/node.png", level: "Intermediate" },
     { text: "SQL", image: "/images/sql.png", level: "Intermediate" },
     { text: "Git", image: "/images/git.png", level: "Advanced" },
-    { text: "PHP / C#", image: "/images/node.png", level: "Intermediate" },
-    { text: "Kotlin", image: "/images/node.png", level: "Beginner" },
+    { text: "PHP", image: "/images/php.png", level: "Intermediate" },
+    { text: "C#", image: "/images/c.png", level: "Intermediate" },
+    { text: "Kotlin", image: "/images/kotlin.png", level: "Beginner" },
   ];
 
   return (

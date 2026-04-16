@@ -227,9 +227,9 @@ a {
 
 body.reveal-active .reveal-on-scroll {
   opacity: 0;
-  transform: translateY(26px) scale(0.985);
-  filter: blur(4px);
-  transition: opacity 0.7s ease, transform 0.7s ease, filter 0.7s ease;
+  transform: translateY(16px) scale(0.99);
+  filter: blur(2px);
+  transition: opacity 0.5s ease, transform 0.5s ease, filter 0.5s ease;
   transition-delay: var(--reveal-delay, 0ms);
   will-change: opacity, transform, filter;
 }
