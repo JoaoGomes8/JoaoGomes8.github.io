@@ -25,7 +25,7 @@ export default function About() {
             </a>
             <a
               className="cta-secondary w-full sm:w-auto"
-              href="/cv/curriculo_2026_cesae.pdf"
+              href="/cv/curriculo_joao_gomes_2026.pdf"
               download="Joao_Gomes_CV_2026.pdf"
               aria-label="Download CV"
             >
