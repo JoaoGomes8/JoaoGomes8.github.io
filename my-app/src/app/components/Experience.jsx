@@ -1,5 +1,11 @@
 const experience = [
   {
+    period: "2026",
+    role: "Shopify Theme Developer (Internship)",
+    company: "Skrey, Maia",
+    details: "Supported Shopify clients as a front-end developer, focused on theme development.",
+  },
+  {
     period: "2023 - 2024",
     role: "Front-end Developer (Professional Internship)",
     company: "MOG Technologies, Maia",
